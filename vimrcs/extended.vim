@@ -31,6 +31,7 @@ set guioptions-=L
 set background=dark
 "colorscheme desert
 colorscheme peaksea
+"colorscheme everforest
 
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
